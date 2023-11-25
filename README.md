@@ -1,4 +1,4 @@
-## Пгронозирование завтрашнего веса
+## Прогнозирование завтрашнего веса
 
 В качестве датасета выбран набор данных и Kaggle 
 https://www.kaggle.com/datasets/sangramphadke/food-and-health-data-for-one-year-day-to-day
