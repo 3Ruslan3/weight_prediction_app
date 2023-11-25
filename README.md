@@ -22,13 +22,13 @@ https://www.kaggle.com/datasets/sangramphadke/food-and-health-data-for-one-year-
 Целевой переменной является вес.
 
 График зависимости веса от признаков
-![img.png](img.png)
+  ![img.png](img.png)
 
 Оценка изменения веса с чечением времени для выявления сезонности
-![img_1.png](img_1.png)
+  ![img_1.png](img_1.png)
 
 Матрица корреляций признаков
-![img_2.png](img_2.png)
+  ![img_2.png](img_2.png)
 
 После проведения разведночного анализа и подготовки датасета признаки будут выглядеть следующим образом:
 
@@ -103,19 +103,19 @@ weight_diff становится таргетом, 'weight_tomorrow' и 'weight_
 Посмотрим, как расставлены веса у моделей.
 
 График интерпертации результата CatBoostRegressor()
-![img_8.png](img_8.png)
+  ![img_8.png](img_8.png)
 
 График интерпертации результата DecisionTreeRegressor()
-![img_3.png](img_3.png)
+  ![img_3.png](img_3.png)
 
 График интерпертации результата LinearRegression()
-![img_4.png](img_4.png)
+  ![img_4.png](img_4.png)
 
 Модели выгружаются в pkl файл, для использования в приложении. Главная страница.
-![img_9.png](img_9.png)
+  ![img_9.png](img_9.png)
 
 Пользователь может самостоятельно выбрать модель для прогноза.
   ![img_10.png](img_10.png)
 
 Результат работы приложения в фактическом и процентном выражении.
-![img_11.png](img_11.png)
+  ![img_11.png](img_11.png)
