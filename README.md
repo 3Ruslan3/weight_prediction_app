@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/1wBgbViZ7G724gHkwKVS0NwvYwiiTvrOa#scroll
 Huggingface
 https://huggingface.co/spaces/3Ruslan3/weight_prediction_app
 
-В качестве датасета выбран набор данных и Kaggle 
+В качестве датасета выбран набор данных из Kaggle 
 https://www.kaggle.com/datasets/sangramphadke/food-and-health-data-for-one-year-day-to-day
 
 Датасет представляет собой записи о весе и потреблённых/затраченых калориях одного мужчины.
