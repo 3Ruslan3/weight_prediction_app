@@ -1,4 +1,9 @@
 ## Прогнозирование завтрашнего веса
+Google Colab
+https://colab.research.google.com/drive/1wBgbViZ7G724gHkwKVS0NwvYwiiTvrOa#scrollTo=DSgVt-rEVf4y
+
+Huggingface
+https://huggingface.co/spaces/3Ruslan3/weight_prediction_app
 
 В качестве датасета выбран набор данных и Kaggle 
 https://www.kaggle.com/datasets/sangramphadke/food-and-health-data-for-one-year-day-to-day
